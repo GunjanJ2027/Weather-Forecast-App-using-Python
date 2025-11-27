@@ -36,18 +36,21 @@ The application allows users to search for real-time weather conditions for any 
 
 # 📁 Project Structure
 
+```
 Weather-App/
 │── main.py
 │── weather_icon/ (optional)
 │── README.md
 │── requirements.txt
 
+```
 
 # ⚙ Installation & Setup
 
 ## 1️⃣ Clone the repository
 
 git clone https://github.com/GunjanJ2027/Weather-Forecast-App-using-Python.git
+
 cd weather-forecast-app
 
 ## 2️⃣ Install dependencies
