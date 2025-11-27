@@ -31,11 +31,66 @@ The application allows users to search for real-time weather conditions for any 
 | Python             | Core Programming Language |
 | Tkinter & ttk      | GUI Framework             |
 | Requests           | API communication         |
-| Pillow (optional)  | Displaying weather icons  |
 | OpenWeatherMap API | Weather data source       |
 
 
+# 📁 Project Structure
 
+Weather-App/
+│── main.py
+│── weather_icon/ (optional)
+│── README.md
+│── requirements.txt
+
+
+# ⚙ Installation & Setup
+
+## 1️⃣ Clone the repository
+
+git clone https://github.com/GunjanJ2027/Weather-Forecast-App-using-Python.git
+cd weather-forecast-app
+
+## 2️⃣ Install dependencies
+
+pip install requests pillow
+
+## 3️⃣ Add your API key
+
+Edit 1.py:
+
+API_KEY = "your_openweather_api_key"
+
+## 4️⃣ Run the application
+
+python 1.py
+
+# 🧠 How It Works
+
+User enters city name
+
+App sends request to OpenWeatherMap API
+
+JSON response received
+
+Weather details parsed and displayed in GUI
+
+# 📌 Future Improvements
+
+5-day weather forecast graph
+
+Location auto-detect (GPS / IP)
+
+Saving recent searches
+
+Theme customization
+
+# 🧑‍💻 Author
+
+Gunjan Joshi
+
+💼 CSE — Software Engineering Mini Project
+
+🔗 GitHub Profile: https://github.com/GunjanJ2027
 
 
 
