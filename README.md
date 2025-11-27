@@ -89,7 +89,7 @@ Theme customization
 
 # 🧑‍💻 Author
 
-Gunjan Joshi
+Gunjan Joshi (2301010062)
 
 💼 CSE — Software Engineering Mini Project
 
