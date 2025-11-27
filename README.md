@@ -38,10 +38,10 @@ The application allows users to search for real-time weather conditions for any 
 
 ```
 Weather-App/
-│── main.py
-│── weather_icon/ (optional)
+│── 1.py
+│── weather_icon/
 │── README.md
-│── requirements.txt
+
 
 ```
 
