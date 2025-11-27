@@ -15,7 +15,7 @@ The application allows users to search for real-time weather conditions for any 
 
 # 🖼 User Interface Preview
 
-****<img width="376" height="246" alt="image" src="https://github.com/user-attachments/assets/e4f72b9a-bf72-401a-b021-de0fe13efdbe" />
+<img width="376" height="246" alt="image" src="https://github.com/user-attachments/assets/e4f72b9a-bf72-401a-b021-de0fe13efdbe" />
 
 
 
