@@ -39,7 +39,7 @@ The application allows users to search for real-time weather conditions for any 
 ```
 Weather-App/
 │── 1.py
-│── weather_icon/
+│── img1/
 │── README.md
 
 
